@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Flight</title>
+</head>
+<body>
+    <h2>Add New Flight</h2>
+    <form action="add_flight.php" method="post">
+        <label for="flight_number">Flight Number:</label><br>
+        <input type="text" id="flight_number" name="flight_number" required><br><br>
+        
+        <label for="departure_location">Departure Location:</label><br>
+        <input type="text" id="departure_location" name="departure_location" required><br><br>
+        
+        <label for="destination_location">Destination Location:</label><br>
+        <input type="text" id="destination_location" name="destination_location" required><br><br>
+        
+        <label for="departure_time">Departure Time:</label><br>
+        <input type="datetime-local" id="departure_time" name="departure_time" required><br><br>
+        
+        <label for="arrival_time">Arrival Time:</label><br>
+        <input type="datetime-local" id="arrival_time" name="arrival_time" required><br><br>
+        
+        <label for="airline">Airline:</label><br>
+        <input type="text" id="airline" name="airline" required><br><br>
+        
+        <label for="price">Price:</label><br>
+        <input type="number" id="price" name="price" required><br><br>
+        
+        <label for="available_seats">Available Seats:</label><br>
+        <input type="number" id="available_seats" name="available_seats" required><br><br>
+        
+        <input type="submit" value="Add Flight">
+    </form>
+    
+</body>
+</html>
