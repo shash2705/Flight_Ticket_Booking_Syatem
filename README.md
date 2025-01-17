@@ -13,11 +13,12 @@ Book tickets for selected flights, including support for multiple passengers.
 Payment Processing:
 
 Integrated payment module to confirm bookings securely.
-Additional Functionalities:
 
+Additional Functionalities:
 View booking history.
 Cancel or modify bookings as needed.
 Admin functionalities to add or update flight schedules.
+
 Technologies Used:
 Frontend: PHP/HTML/CSS for an interactive and user-friendly interface.
 
