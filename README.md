@@ -20,6 +20,7 @@ Cancel or modify bookings as needed.
 Admin functionalities to add or update flight schedules.
 Technologies Used:
 Frontend: PHP/HTML/CSS for an interactive and user-friendly interface.
+
 Backend: MySQL for database management, ensuring data integrity and efficient operations.
 This project demonstrates a practical application of database management principles, offering a real-world solution to streamline the flight booking process.
 
