@@ -1,4 +1,3 @@
-Flight Ticket Booking System
 The Flight Ticket Booking System is a comprehensive DBMS-based project that provides an intuitive user interface to manage the complete flight booking process. This system streamlines the process for both users and administrators by offering the following features:
 
 Key Features:
